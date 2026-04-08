@@ -1,4 +1,4 @@
-# Colaboratory
+# Claboratory
 
 --------------------------
 Google Colaboratory (o Colab) es una herramienta de desarrollo  que permite redactar y ejecutar códigos directamente desde el navegador. Una de sus ventajas radica en la combinación de celdas de código con elementos de texto enriquecido, facilitando la toma de notas y el trabajo colaborativo en tiempo real.
