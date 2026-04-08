@@ -4,4 +4,4 @@ Los archivos pueden ser descargados mediante los siguientes atajos:
 
 [Para descargar mi Informe del Módulo 1 en PDF](https://github.com/emanuel-gomez-rastrilla/modulo_1/blob/main/LNCS_Emanuel/Springer_Lecture_Notes_in_Computer_Science_Joulie_Faraday%20(1).pdf)
 
-[Para descargar el archivo zip. con todo el proyecto en LaTeX]()
+[Para descargar el archivo zip. con todo el proyecto en LaTeX](https://github.com/emanuel-gomez-rastrilla/modulo_1/blob/main/LNCS_Emanuel/Springer_Lecture_Notes_in_Computer_Science_Joulie_Faraday.zip)
